@@ -1,0 +1,2 @@
+Uno is a popular shedding-type card game played with a specially printed deck where players try to get rid of all their cards by matching the color, number, or action cards in their hand to the top card of the discard pile. The first player to discard all their cards wins the round, but must remember to call "Uno!" when they have only one card remaining, or risk being penalized with additional cards if caught.
+
